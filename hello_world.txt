@@ -1,4 +1,5 @@
 Lorem ipsum dolor sit amet,
+<<<<<<< HEAD
 consectetuer adipiscing elit.
 <<<<<<< HEAD
 Aenhdfsjadhaean commodo ligula eget dolor.
@@ -7,9 +8,20 @@ Aenfhjksadgaean massa.
 commodo ligula eget dolor.
 massa.
 >>>>>>> origin/bugfix_stan
+=======
+yfrfrghtbgb consectetuer adipiscing elit.
+commodo ligula eget dolor.
+massa.
+>>>>>>> a5269b6ae4280605b7ei9f69023b65112b0dbb87b
 NEW_WORD 
 Cum sociis natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 Nulla consequat massa quis enim.
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+
+test
+=======
+Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+TESTTTT
+
